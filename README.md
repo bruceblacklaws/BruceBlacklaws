@@ -9,4 +9,4 @@ You can use my chat app to get answers to your questions without having to forma
 
 ## Terminal
 
-![cURL and jq](terminal.gif)
+![cURL and jq](terminal.png)
